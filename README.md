@@ -40,3 +40,5 @@ The ER diagram is created using MySQL Workbench and shows primary keys, foreign 
 * README.md documentation
 ## Conclusion
 This project demonstrates the practical application of DBMS concepts such as normalization, entity-relationship modeling, optimized data types, and referential integrity. It reflects real-world business processes of an FMCG organization and is suitable for academic evaluation and viva discussions.
+### Author
+Mimansa Sukriti(341026), Nikita Sawaner(341030), Prashansa Sinha(341036)
